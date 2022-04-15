@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b4LjfS0Zh9TgNitqW5YjZkR1sPJkEOhu1dgyJ6C9IAQ=",
+  "Source": "WebApi_CargoWeb",
+  "BasePath": "_content/WebApi_CargoWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
